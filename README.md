@@ -1,4 +1,4 @@
-# lung-cancer-classification
+# Lung Cancer Classification
 
 ## Project Compatibility and Requirements
 
