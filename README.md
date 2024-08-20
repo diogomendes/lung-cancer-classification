@@ -34,6 +34,7 @@ To build the code, Jupyter Notebook was used so that the code can be executed st
 
 #### With the data available, some examples of images obtained include:
 Nodule identification using medical annotations
+
 ![image 2](https://github.com/user-attachments/assets/1a26fd65-8934-4a72-9039-a9848e56a8f2)
 ![image 1](https://github.com/user-attachments/assets/0146b37f-493b-4bb0-98d9-d3e5077fda48)
 
